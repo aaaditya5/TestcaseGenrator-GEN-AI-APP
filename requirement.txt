@@ -1,0 +1,5 @@
+langchain-google-genai
+google-generativeai
+gradio
+langchain 
+python-dotenv
